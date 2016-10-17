@@ -1,0 +1,1 @@
+ A script that performs domain name analysis and IP geolocation of the provided list of URLs
