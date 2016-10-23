@@ -1,0 +1,560 @@
+***** IP Geolocation *****
+[+]URL: forensicsfocus.com
+[+]Domain IP: 72.52.4.120
+[+]Domian Registrar: PDR LTD. D/B/A PUBLICDOMAINREGISTRY.COM
+[+]Name Servers: set(['ns2.sedoparking.com', 'ns1.sedoparking.com'])
+[+]Name Server IPs: ['209.200.165.74', '209.200.164.69']
+[+]Server Info: Apache/2.2.22 (Debian)
+[+]Server Date: Sun, 23 Oct 2016 20:36:24 GMT
+[+]Server X-Powered-By: PHP/5.6.25-1~dotdeb.7.1
+[+]Server Locations: [(u'Cambridge', 42.362599999999986, -71.0843), (u'Cambridge', 42.362599999999986, -71.0843)]
+ 
+[+]URL: sans.org
+[+]Domain IP: 66.35.59.202
+[+]Domian Registrar: DomainPeople, Inc.
+[+]Name Servers: set(['dns21a.sans.org', 'dns31a.sans.org', 'dns31b.sans.org', 'dns21b.sans.org'])
+[+]Name Server IPs: ['66.35.59.7', '204.51.94.7', '204.51.94.8', '66.35.59.8']
+[+]Server Info: nginx
+[+]Server Date: Sun, 23 Oct 2016 20:36:28 GMT
+[+]Server X-Powered-By: Not found
+[+]Server Locations: [(u'Bethesda', 39.006, -77.1025), (u'Bethesda', 39.006, -77.1025), (u'Bethesda', 39.006, -77.1025), (u'Bethesda', 39.006, -77.1025)]
+ 
+[+]URL: sans.org
+[+]Domain IP: 66.35.59.202
+[+]Domian Registrar: DomainPeople, Inc.
+[+]Name Servers: set(['dns21a.sans.org', 'dns31a.sans.org', 'dns31b.sans.org', 'dns21b.sans.org'])
+[+]Name Server IPs: ['66.35.59.7', '204.51.94.7', '204.51.94.8', '66.35.59.8']
+[+]Server Info: nginx
+[+]Server Date: Sun, 23 Oct 2016 20:36:30 GMT
+[+]Server X-Powered-By: Not found
+[+]Server Locations: [(u'Bethesda', 39.006, -77.1025), (u'Bethesda', 39.006, -77.1025), (u'Bethesda', 39.006, -77.1025), (u'Bethesda', 39.006, -77.1025)]
+ 
+[+]URL: deftlinux.net
+[+]Domain IP: 94.23.64.4
+[+]Domian Registrar: OVH
+[+]Name Servers: set(['ns200.anycast.me', 'dns200.anycast.me'])
+[+]Name Server IPs: ['46.105.207.200', '46.105.206.200']
+[+]Server Info: Apache
+[+]Server Date: Sun, 23 Oct 2016 20:36:34 GMT
+[+]Server X-Powered-By: PHP/5.6.25
+[+]Server Locations: [(None, 48.85820000000001, 2.3386999999999887), (None, 48.85820000000001, 2.3386999999999887)]
+ 
+[+]URL: accessdata.com
+[+]Domain IP: 54.83.13.15
+[+]Domian Registrar: GODADDY.COM, LLC
+[+]Name Servers: set(['ns22.domaincontrol.com', 'ns21.domaincontrol.com'])
+[+]Name Server IPs: ['208.109.255.11', '216.69.185.11']
+[+]Server Info: Apache/2.4.7 (Ubuntu)
+[+]Server Date: Sun, 23 Oct 2016 20:36:38 GMT
+[+]Server X-Powered-By: PHP/5.5.9-1ubuntu4.9
+[+]Server Locations: [(u'Scottsdale', 33.61189999999999, -111.8906), (u'Chandler', 33.32329999999999, -111.8244)]
+ 
+[+]URL: blogspot.com
+[+]Domain IP: 216.58.217.105
+[+]Domian Registrar: MARKMONITOR INC.
+[+]Name Servers: set(['ns3.google.com', 'ns4.google.com', 'ns1.google.com', 'ns2.google.com'])
+[+]Name Server IPs: ['216.239.36.10', '216.239.38.10', '216.239.32.10', '216.239.34.10']
+[+]Server Info: sffe
+[+]Server Date: Sun, 23 Oct 2016 20:36:39 GMT
+[+]Server X-Powered-By: Not found
+[+]Server Locations: [(None, 34.05439999999999, -118.244), (None, 34.05439999999999, -118.244), (None, 34.05439999999999, -118.244), (None, 34.05439999999999, -118.244)]
+ 
+[+]URL: digitalcorpora.org
+[+]Domain IP: 129.174.125.204
+[+]Domian Registrar: New Dream Network, LLC dba DreamHost Web Hosting
+[+]Name Servers: set(['ns2.dreamhost.com', 'ns3.dreamhost.com', 'ns1.dreamhost.com'])
+[+]Name Server IPs: ['208.97.182.10', '66.33.216.216', '66.33.206.206']
+[+]Server Info: Apache/2.2.15 (CentOS)
+[+]Server Date: Sun, 23 Oct 2016 20:36:42 GMT
+[+]Server X-Powered-By: PHP/5.3.3
+[+]Server Locations: [(u'Brea', 33.92689999999999, -117.8612), (u'Brea', 33.92689999999999, -117.8612), (u'Brea', 33.92689999999999, -117.8612)]
+ 
+[+]URL: sleuthkit.org
+[+]Domain IP: 69.163.161.254
+[+]Domian Registrar: GoDaddy.com, LLC
+[+]Name Servers: set(['ns2.dreamhost.com', 'ns3.dreamhost.com', 'ns1.dreamhost.com'])
+[+]Name Server IPs: ['208.97.182.10', '66.33.216.216', '66.33.206.206']
+[+]Server Info: Apache
+[+]Server Date: Sun, 23 Oct 2016 20:36:49 GMT
+[+]Server X-Powered-By: Not found
+[+]Server Locations: [(u'Brea', 33.92689999999999, -117.8612), (u'Brea', 33.92689999999999, -117.8612), (u'Brea', 33.92689999999999, -117.8612)]
+ 
+[+]URL: sourceforge.net
+[+]Domain IP: 216.34.181.60
+[+]Domian Registrar: TUCOWS DOMAINS INC.
+[+]Name Servers: set(['ns2.dnsmadeeasy.com', 'ns3.dnsmadeeasy.com', 'ns1.dnsmadeeasy.com', 'ns4.dnsmadeeasy.com'])
+[+]Name Server IPs: ['208.80.126.2', '208.80.125.2', '208.80.124.2', '208.80.127.2']
+[+]Server Info: nginx
+[+]Server Date: Sun, 23 Oct 2016 20:36:52 GMT
+[+]Server X-Powered-By: Not found
+[+]Server Locations: [(u'Reston', 38.93109999999999, -77.3489), (u'Reston', 38.93109999999999, -77.3489), (u'Reston', 38.93109999999999, -77.3489), (u'Reston', 38.93109999999999, -77.3489)]
+ 
+[+]URL: forensicswiki.org
+[+]Domain IP: 64.9.81.14
+[+]Domian Registrar: GoDaddy.com, LLC
+[+]Name Servers: set(['ns2.forensicswiki.org', 'ns1.forensicswiki.org'])
+[+]Name Server IPs: ['209.217.208.83', '209.217.208.82']
+[+]Server Info: Apache/2.4.6 (CentOS) PHP/5.4.16
+[+]Server Date: Sun, 23 Oct 2016 20:36:54 GMT
+[+]Server X-Powered-By: PHP/5.4.16
+[+]Server Locations: [(u'Syracuse', 43.05099999999999, -76.1769), (u'Syracuse', 43.05099999999999, -76.1769)]
+ 
+ 
+ 
+[+]URL: tenable.com
+[+]Domain IP: 4.59.136.200
+[+]Domian Registrar: NETWORK SOLUTIONS, LLC.
+[+]Name Servers: set(['ns4.tenablesecurity.com', 'ns7.tenablesecurity.com', 'ns8.tenablesecurity.com', 'ns6.tenablesecurity.com'])
+[+]Name Server IPs: ['4.79.179.73', '4.59.136.222', '50.31.149.80', '63.148.88.72']
+[+]Server Info: Apache
+[+]Server Date: Sun, 23 Oct 2016 20:37:04 GMT
+[+]Server X-Powered-By: Tenable
+[+]Server Locations: [(u'Whippany', 40.822900000000004, -74.4197), (u'Royersford', 40.20400000000001, -75.5381), (u'Elmhurst', 41.891699999999986, -87.9359), (u'Columbia', 39.20429999999999, -76.8833)]
+ 
+[+]URL: metasploit.com
+[+]Domain IP: 52.84.34.112
+[+]Domian Registrar: MARKMONITOR INC.
+[+]Name Servers: set(['ns-1709.awsdns-21.co.uk', 'ns-1441.awsdns-52.org', 'ns-627.awsdns-14.net', 'ns-290.awsdns-36.com'])
+[+]Name Server IPs: ['205.251.198.173', '205.251.197.161', '205.251.194.115', '205.251.193.34']
+[+]Server Info: Apache
+[+]Server Date: Sun, 23 Oct 2016 20:37:07 GMT
+[+]Server X-Powered-By: Not found
+[+]Server Locations: [(u'Seattle', 47.610299999999995, -122.3341), (u'Seattle', 47.610299999999995, -122.3341), (u'Seattle', 47.610299999999995, -122.3341), (u'Seattle', 47.610299999999995, -122.3341)]
+ 
+[+]URL: reddit.com
+[+]Domain IP: 151.101.1.140
+[+]Domian Registrar: GANDI SAS
+[+]Name Servers: set(['ns-378.awsdns-47.com', 'ns-1029.awsdns-00.org', 'name', 'ns-557.awsdns-05.net', 'ns-1887.awsdns-43.co.uk'])
+[+]Name Server IPs: ['205.251.193.122', '205.251.196.5', 'Not Found']
+[+]Server Info: snooserv
+[+]Server Date: Sun, 23 Oct 2016 20:37:11 GMT
+[+]Server X-Powered-By: Not found
+[+]Server Locations: ['Not Found']
+ 
+ 
+ 
+ 
+ 
+[+]URL: nuitduhack.com
+[+]Domain IP: 5.104.97.100
+[+]Domian Registrar: GANDI SAS
+[+]Name Servers: set(['dnssec:', 'b.dns.gandi.net', 'c.dns.gandi.net', 'name', 'a.dns.gandi.net'])
+[+]Name Server IPs: ['Not Found']
+[+]Server Info: nginx
+[+]Server Date: Sun, 23 Oct 2016 20:37:27 GMT
+[+]Server X-Powered-By: Not found
+[+]Server Locations: ['Not Found']
+ 
+[+]URL: secuinside.com
+[+]Domain IP: 211.110.5.74
+[+]Domian Registrar: NETPIA.COM, INC.
+[+]Name Servers: set(['ns1.cafe24.co.kr', 'ns2.cafe24.co.kr', 'ns1.cafe24.com', 'ns2.cafe24.com'])
+[+]Name Server IPs: ['112.175.246.233', '112.175.247.232', '175.125.93.134', '1.226.85.4']
+[+]Server Info: Apache/2.2.15 (CentOS)
+[+]Server Date: Sun, 23 Oct 2016 20:34:36 GMT
+[+]Server X-Powered-By: PHP/5.3.3
+[+]Server Locations: [(None, 37.5112, 126.97410000000002), (None, 37.5112, 126.97410000000002), (None, 37.5112, 126.97410000000002), (u'Seoul', 37.5985, 126.97829999999999)]
+ 
+[+]URL: ghostintheshellcode.com
+[+]Domain IP: 66.33.213.108
+[+]Domian Registrar: DREAMHOST, LLC
+[+]Name Servers: set(['ns2.dreamhost.com', 'ns3.dreamhost.com', 'ns1.dreamhost.com'])
+[+]Name Server IPs: ['208.97.182.10', '66.33.216.216', '66.33.206.206']
+[+]Server Info: Apache
+[+]Server Date: Sun, 23 Oct 2016 20:37:34 GMT
+[+]Server X-Powered-By: Not found
+[+]Server Locations: [(u'Brea', 33.92689999999999, -117.8612), (u'Brea', 33.92689999999999, -117.8612), (u'Brea', 33.92689999999999, -117.8612)]
+ 
+[+]URL: 44con.com
+[+]Domain IP: 192.0.78.24
+[+]Domian Registrar: TUCOWS DOMAINS INC.
+[+]Name Servers: set(['ns1.wordpress.com', 'ns2.wordpress.com', 'ns3.wordpress.com'])
+[+]Name Server IPs: ['198.181.116.9', '198.181.117.9', '192.0.74.9']
+[+]Server Info: nginx
+[+]Server Date: Sun, 23 Oct 2016 20:37:36 GMT
+[+]Server X-Powered-By: Not found
+[+]Server Locations: [(u'San Francisco', 37.748400000000004, -122.4156), (u'San Francisco', 37.748400000000004, -122.4156), (u'San Francisco', 37.748400000000004, -122.4156)]
+ 
+[+]URL: derbycon.com
+[+]Domain IP: 45.79.164.10
+[+]Domian Registrar: ENOM, INC.
+[+]Name Servers: set(['ns2.dnsimple.com', 'ns4.dnsimple.com', 'ns1.dnsimple.com', 'ns3.dnsimple.com'])
+[+]Name Server IPs: ['162.159.25.4', '162.159.27.4', '162.159.24.4', '162.159.26.4']
+[+]Server Info: Apache
+[+]Server Date: Sun, 23 Oct 2016 20:37:39 GMT
+[+]Server X-Powered-By: PHP/5.5.9-1ubuntu4.19
+[+]Server Locations: [(u'San Francisco', 37.7697, -122.39330000000001), (u'San Francisco', 37.7697, -122.39330000000001), (u'San Francisco', 37.7697, -122.39330000000001), (u'San Francisco', 37.7697, -122.39330000000001)]
+ 
+[+]URL: summercon.org
+[+]Domain IP: 146.20.26.215
+[+]Domian Registrar: GoDaddy.com, LLC
+[+]Name Servers: set(['ns.tesuji.org', 'ns.angstrom.net'])
+[+]Name Server IPs: ['72.43.165.235', '23.25.95.130']
+[+]Server Info: Cocaine-8 (Ball)
+[+]Server Date: Sun, 23 Oct 2016 20:37:42 GMT
+[+]Server X-Powered-By: Not found
+[+]Server Locations: [(u'Ozone Park', 40.676500000000004, -73.8467), (None, 37.751000000000005, -97.822)]
+ 
+[+]URL: blackhat.com
+[+]Domain IP: 104.20.66.243
+[+]Domian Registrar: CSC CORPORATE DOMAINS, INC.
+[+]Name Servers: set(['rick.ns.cloudflare.com', 'may.ns.cloudflare.com'])
+[+]Name Server IPs: ['173.245.59.139', '173.245.58.135']
+[+]Server Info: cloudflare-nginx
+[+]Server Date: Sun, 23 Oct 2016 20:37:44 GMT
+[+]Server X-Powered-By: Not found
+[+]Server Locations: [(u'San Francisco', 37.7697, -122.39330000000001), (u'San Francisco', 37.7697, -122.39330000000001)]
+ 
+[+]URL: defcon.org
+[+]Domain IP: 162.222.171.206
+[+]Domian Registrar: Gandi SAS
+[+]Name Servers: set(['dns-3.datamerica.com', 'dns-2.datamerica.com', 'dns-1.datamerica.com'])
+[+]Name Server IPs: ['162.222.171.197', '64.87.1.238', '162.222.171.195']
+[+]Server Info: Apache
+[+]Server Date: Sun, 23 Oct 2016 20:37:47 GMT
+[+]Server X-Powered-By: Not found
+[+]Server Locations: [(u'Seattle', 47.57159999999999, -122.3327), (None, 34.05439999999999, -118.244), (u'Seattle', 47.57159999999999, -122.3327)]
+ 
+[+]URL: passwordscon.org
+[+]Domain IP: 199.83.131.92
+[+]Domian Registrar: eNom, Inc.
+[+]Name Servers: set(['ns1.embeddedintl.com', 'ns2.embeddedintl.com'])
+[+]Name Server IPs: ['209.147.121.163', '209.147.121.178']
+ 
+ 
+[+]URL: facebook.com
+[+]Domain IP: 31.13.69.228
+[+]Domian Registrar: MARKMONITOR INC.
+[+]Name Servers: set(['b.ns.facebook.com', 'a.ns.facebook.com'])
+[+]Name Server IPs: ['69.171.255.12', '69.171.239.12']
+ 
+[+]URL: twitter.com
+[+]Domain IP: 199.16.156.70
+[+]Domian Registrar: CSC CORPORATE DOMAINS, INC.
+[+]Name Servers: set(['ns2.p34.dynect.net', 'ns1.p34.dynect.net', 'ns4.p34.dynect.net', 'ns3.p34.dynect.net'])
+[+]Name Server IPs: ['204.13.250.34', '208.78.70.34', '204.13.251.34', '208.78.71.34']
+[+]Server Info: tsa_b
+[+]Server Date: Sun, 23 Oct 2016 20:38:00 GMT
+[+]Server X-Powered-By: Not found
+[+]Server Locations: [(u'Manchester', 42.98849999999999, -71.4652), (u'Manchester', 42.98849999999999, -71.4652), (u'Manchester', 42.98849999999999, -71.4652), (u'Manchester', 42.98849999999999, -71.4652)]
+ 
+[+]URL: instagram.com
+[+]Domain IP: 52.0.219.254
+[+]Domian Registrar: REGISTRARSEC LLC
+[+]Name Servers: set(['ns-1349.awsdns-40.org', 'ns-868.awsdns-44.net', 'ns-2016.awsdns-60.co.uk', 'ns-384.awsdns-48.com'])
+[+]Name Server IPs: ['205.251.197.69', '205.251.195.100', '205.251.199.224', '205.251.193.128']
+ 
+[+]URL: pinterest.com
+[+]Domain IP: 23.235.37.84
+[+]Domian Registrar: MARKMONITOR INC.
+[+]Name Servers: set(['ns1.pinterest.com', 'ns3.pinterest.com', 'ns2.pinterest.com', 'ns4.pinterest.com'])
+[+]Name Server IPs: ['208.78.70.60', '208.78.71.60', '204.13.250.60', '204.13.251.60']
+[+]Server Info: nginx
+[+]Server Date: Sun, 23 Oct 2016 20:38:06 GMT
+[+]Server X-Powered-By: Not found
+[+]Server Locations: [(u'Manchester', 42.98849999999999, -71.4652), (u'Manchester', 42.98849999999999, -71.4652), (u'Manchester', 42.98849999999999, -71.4652), (u'Manchester', 42.98849999999999, -71.4652)]
+ 
+[+]URL: dropbox.com
+[+]Domain IP: 108.160.172.238
+[+]Domian Registrar: MARKMONITOR INC.
+[+]Name Servers: set(['ns-315.awsdns-39.com', 'ns-1162.awsdns-17.org', 'ns-1949.awsdns-51.co.uk', 'ns-564.awsdns-06.net'])
+[+]Name Server IPs: ['205.251.193.59', '205.251.196.138', '205.251.199.157', '205.251.194.52']
+[+]Server Info: nginx
+[+]Server Date: Sun, 23 Oct 2016 20:38:10 GMT
+[+]Server X-Powered-By: Not found
+[+]Server Locations: [(u'Seattle', 47.610299999999995, -122.3341), (u'Seattle', 47.610299999999995, -122.3341), (u'Seattle', 47.610299999999995, -122.3341), (u'Seattle', 47.610299999999995, -122.3341)]
+ 
+[+]URL: box.com
+[+]Domain IP: 107.152.24.196
+[+]Domian Registrar: MARKMONITOR INC.
+[+]Name Servers: set(['ns-200.awsdns-25.com', 'ns1.p05.dynect.net', 'ns-1820.awsdns-35.co.uk', 'ns-891.awsdns-47.net', 'ns-1314.awsdns-36.org', 'ns3.p05.dynect.net', 'ns2.p05.dynect.net', 'ns4.p05.dynect.net'])
+[+]Name Server IPs: ['205.251.192.200', '208.78.70.5', '205.251.199.28', '205.251.195.123', '205.251.197.34', '208.78.71.5', '204.13.250.5', '204.13.251.5']
+[+]Server Info: ATS
+[+]Server Date: Sun, 23 Oct 2016 20:38:14 GMT
+[+]Server X-Powered-By: Not found
+[+]Server Locations: [(u'Seattle', 47.610299999999995, -122.3341), (u'Manchester', 42.98849999999999, -71.4652), (u'Seattle', 47.610299999999995, -122.3341), (u'Seattle', 47.610299999999995, -122.3341), (u'Seattle', 47.610299999999995, -122.3341), (u'Manchester', 42.98849999999999, -71.4652), (u'Manchester', 42.98849999999999, -71.4652), (u'Manchester', 42.98849999999999, -71.4652)]
+ 
+[+]URL: google.com
+[+]Domain IP: 216.58.219.206
+[+]Domian Registrar: MARKMONITOR INC.
+[+]Name Servers: set(['ns3.google.com', 'ns4.google.com', 'ns1.google.com', 'ns2.google.com'])
+[+]Name Server IPs: ['216.239.36.10', '216.239.38.10', '216.239.32.10', '216.239.34.10']
+[+]Server Info: gws
+[+]Server Date: Sun, 23 Oct 2016 20:38:22 GMT
+[+]Server X-Powered-By: Not found
+[+]Server Locations: [(None, 34.05439999999999, -118.244), (None, 34.05439999999999, -118.244), (None, 34.05439999999999, -118.244), (None, 34.05439999999999, -118.244)]
+ 
+[+]URL: google.com
+[+]Domain IP: 172.217.4.78
+[+]Domian Registrar: MARKMONITOR INC.
+[+]Name Servers: set(['ns3.google.com', 'ns4.google.com', 'ns1.google.com', 'ns2.google.com'])
+[+]Name Server IPs: ['216.239.36.10', '216.239.38.10', '216.239.32.10', '216.239.34.10']
+[+]Server Info: gws
+[+]Server Date: Sun, 23 Oct 2016 20:38:24 GMT
+[+]Server X-Powered-By: Not found
+[+]Server Locations: [(None, 34.05439999999999, -118.244), (None, 34.05439999999999, -118.244), (None, 34.05439999999999, -118.244), (None, 34.05439999999999, -118.244)]
+ 
+[+]URL: youtube.com
+[+]Domain IP: 4.35.21.148
+[+]Domian Registrar: MARKMONITOR INC.
+[+]Name Servers: set(['ns3.google.com', 'ns4.google.com', 'ns1.google.com', 'ns2.google.com'])
+[+]Name Server IPs: ['216.239.36.10', '216.239.38.10', '216.239.32.10', '216.239.34.10']
+[+]Server Info: YouTubeFrontEnd
+[+]Server Date: Sun, 23 Oct 2016 20:38:27 GMT
+[+]Server X-Powered-By: Not found
+[+]Server Locations: [(None, 34.05439999999999, -118.244), (None, 34.05439999999999, -118.244), (None, 34.05439999999999, -118.244), (None, 34.05439999999999, -118.244)]
+ 
+[+]URL: wikipedia.org
+[+]Domain IP: 208.80.154.224
+[+]Domian Registrar: MarkMonitor Inc.
+[+]Name Servers: set(['ns1.wikimedia.org', 'ns0.wikimedia.org', 'ns2.wikimedia.org'])
+[+]Name Server IPs: ['208.80.153.231', '208.80.154.238', '91.198.174.239']
+[+]Server Info: mw1212.eqiad.wmnet
+[+]Server Date: Sun, 23 Oct 2016 20:38:31 GMT
+[+]Server X-Powered-By: HHVM/3.3.0-static
+[+]Server Locations: [(u'San Francisco', 37.789800000000014, -122.3942), (u'San Francisco', 37.789800000000014, -122.3942), (None, 52.38239999999999, 4.899499999999989)]
+ 
+[+]URL: amazon.com
+[+]Domain IP: 54.239.26.128
+[+]Domian Registrar: MARKMONITOR INC.
+[+]Name Servers: set(['pdns6.ultradns.co.uk', 'pdns1.ultradns.net', 'ns1.p31.dynect.net', 'ns3.p31.dynect.net', 'ns2.p31.dynect.net', 'ns4.p31.dynect.net'])
+[+]Name Server IPs: ['204.74.115.1', '204.74.108.1', '208.78.70.31', '208.78.71.31', '204.13.250.31', '204.13.251.31']
+[+]Server Info: Server
+[+]Server Date: Sun, 23 Oct 2016 20:38:34 GMT
+[+]Server X-Powered-By: Not found
+[+]Server Locations: [(u'Tempe', 33.3673, -111.9357), (u'San Mateo', 37.57409999999999, -122.321), (u'Manchester', 42.98849999999999, -71.4652), (u'Manchester', 42.98849999999999, -71.4652), (u'Manchester', 42.98849999999999, -71.4652), (u'Manchester', 42.98849999999999, -71.4652)]
+ 
+[+]URL: theverge.com
+[+]Domain IP: 151.101.129.52
+[+]Domian Registrar: CSC CORPORATE DOMAINS, INC.
+[+]Name Servers: set(['ns4.p16.dynect.net', 'ns1.p16.dynect.net', 'ns-11.awsdns-01.com', 'ns3.p16.dynect.net', 'ns-1312.awsdns-36.org', 'ns-1883.awsdns-43.co.uk', 'ns-637.awsdns-15.net', 'ns2.p16.dynect.net'])
+[+]Name Server IPs: ['204.13.251.16', '208.78.70.16', '205.251.192.11', '208.78.71.16', '205.251.197.32', '205.251.199.91', '205.251.194.125', '204.13.250.16']
+[+]Server Info: nginx
+[+]Server Date: Sun, 23 Oct 2016 20:38:36 GMT
+[+]Server X-Powered-By: Not found
+[+]Server Locations: [(u'Manchester', 42.98849999999999, -71.4652), (u'Manchester', 42.98849999999999, -71.4652), (u'Seattle', 47.610299999999995, -122.3341), (u'Manchester', 42.98849999999999, -71.4652), (u'Seattle', 47.610299999999995, -122.3341), (u'Seattle', 47.610299999999995, -122.3341), (u'Seattle', 47.610299999999995, -122.3341), (u'Manchester', 42.98849999999999, -71.4652)]
+ 
+[+]URL: engadget.com
+[+]Domain IP: 149.174.98.148
+[+]Domian Registrar: CSC CORPORATE DOMAINS, INC.
+[+]Name Servers: set(['dns-01.ns.aol.com', 'pdns1.ultradns.net', 'pdns2.ultradns.net', 'pdns4.ultradns.org', 'dns-06.ns.aol.com', 'pdns6.ultradns.co.uk', 'dns-07.ns.aol.com', 'pdns3.ultradns.org', 'pdns5.ultradns.info', 'dns-02.ns.aol.com'])
+[+]Name Server IPs: ['64.12.51.132', '204.74.108.1', '204.74.109.1', '199.7.69.1', '207.200.73.80', '204.74.115.1', '64.236.1.107', '199.7.68.1', '204.74.114.1', '205.188.157.232']
+[+]Server Info: Apache
+[+]Server Date: Sun, 23 Oct 2016 20:38:40 GMT
+[+]Server X-Powered-By: Not found
+[+]Server Locations: [(None, 37.751000000000005, -97.822), (u'San Mateo', 37.57409999999999, -122.321), (u'Tempe', 33.3673, -111.9357), (u'Sterling', 38.9881, -77.4755), (None, 37.751000000000005, -97.822), (u'Tempe', 33.3673, -111.9357), (None, 37.751000000000005, -97.822), (u'Sterling', 38.9881, -77.4755), (u'Tempe', 33.3673, -111.9357), (None, 37.751000000000005, -97.822)]
+ 
+[+]URL: lifehacker.com
+[+]Domain IP: 151.101.1.34
+[+]Domian Registrar: MARKMONITOR INC.
+[+]Name Servers: set(['dns3.p07.nsone.net', 'dns4.p07.nsone.net', 'dns1.p07.nsone.net', 'dns2.p07.nsone.net'])
+[+]Name Server IPs: ['198.51.44.71', '198.51.45.71', '198.51.44.7', '198.51.45.7']
+ 
+[+]URL: 9to5mac.com
+[+]Domain IP: 192.0.79.33
+[+]Domian Registrar: ENOM, INC.
+[+]Name Servers: set(['ns2.wordpress.com', 'ns3.wordpress.com'])
+[+]Name Server IPs: ['198.181.117.9', '192.0.74.9']
+[+]Server Info: nginx
+[+]Server Date: Sun, 23 Oct 2016 20:38:45 GMT
+[+]Server X-Powered-By: Not found
+[+]Server Locations: [(u'San Francisco', 37.748400000000004, -122.4156), (u'San Francisco', 37.748400000000004, -122.4156)]
+ 
+[+]URL: tuaw.com
+[+]Domain IP: 207.200.74.38
+[+]Domian Registrar: CSC CORPORATE DOMAINS, INC.
+[+]Name Servers: set(['dns-01.ns.aol.com', 'dns-06.ns.aol.com', 'dns-02.ns.aol.com', 'dns-07.ns.aol.com'])
+[+]Name Server IPs: ['64.12.51.132', '207.200.73.80', '205.188.157.232', '64.236.1.107']
+[+]Server Info: Apache
+[+]Server Date: Sun, 23 Oct 2016 20:38:48 GMT
+[+]Server X-Powered-By: Not found
+[+]Server Locations: [(None, 37.751000000000005, -97.822), (None, 37.751000000000005, -97.822), (None, 37.751000000000005, -97.822), (None, 37.751000000000005, -97.822)]
+ 
+[+]URL: phandroid.com
+[+]Domain IP: 173.193.28.71
+[+]Domian Registrar: DOMAIN.COM, LLC
+[+]Name Servers: set(['ns2.neverstill.com', 'ns1.neverstill.com'])
+[+]Name Server IPs: ['173.192.24.227', '173.192.24.226']
+[+]Server Info: nginx
+[+]Server Date: Sun, 23 Oct 2016 20:38:51 GMT
+[+]Server X-Powered-By: Not found
+[+]Server Locations: [(u'Dallas', 32.78309999999999, -96.8067), (u'Dallas', 32.78309999999999, -96.8067)]
+ 
+[+]URL: huffingtonpost.com
+[+]Domain IP: 64.12.79.57
+[+]Domian Registrar: CSC CORPORATE DOMAINS, INC.
+[+]Name Servers: set(['ns2.p132.dynect.net', 'ns4.p132.dynect.net', 'ns1.p132.dynect.net', 'pdns120.ultradns.com', 'ns3.p132.dynect.net', 'pdns120.ultradns.net', 'pdns120.ultradns.biz', 'pdns120.ultradns.org'])
+[+]Name Server IPs: ['204.13.250.132', '204.13.251.132', '208.78.70.132', '156.154.64.120', '208.78.71.132', '156.154.65.120', '156.154.66.120', '156.154.67.120']
+[+]Server Info: ECD (ewr/15B4)
+[+]Server Date: Sun, 23 Oct 2016 20:38:55 GMT
+[+]Server X-Powered-By: Not found
+[+]Server Locations: [(u'Manchester', 42.98849999999999, -71.4652), (u'Manchester', 42.98849999999999, -71.4652), (u'Manchester', 42.98849999999999, -71.4652), (u'Sterling', 39.0138, -77.3987), (u'Manchester', 42.98849999999999, -71.4652), (u'Sterling', 39.0138, -77.3987), (u'Sterling', 39.0138, -77.3987), (u'Sterling', 39.0138, -77.3987)]
+ 
+[+]URL: buzzfeed.com
+[+]Domain IP: 75.101.132.179
+[+]Domian Registrar: MARKMONITOR INC.
+[+]Name Servers: set(['ns-166.awsdns-20.com', 'ns-1367.awsdns-42.org', 'ns-1015.awsdns-62.net', 'ns-1554.awsdns-02.co.uk'])
+[+]Name Server IPs: ['205.251.192.166', '205.251.197.87', '205.251.195.247', '205.251.198.18']
+[+]Server Info: nginx
+[+]Server Date: Sun, 23 Oct 2016 20:38:57 GMT
+[+]Server X-Powered-By: Not found
+[+]Server Locations: [(u'Seattle', 47.610299999999995, -122.3341), (u'Seattle', 47.610299999999995, -122.3341), (u'Seattle', 47.610299999999995, -122.3341), (u'Seattle', 47.610299999999995, -122.3341)]
+ 
+[+]URL: mashable.com
+[+]Domain IP: 96.6.122.192
+[+]Domian Registrar: GODADDY.COM, LLC
+[+]Name Servers: set(['use1.akam.net', 'usw1.akam.net', 'usc2.akam.net', 'ns1-139.akam.net'])
+[+]Name Server IPs: ['72.246.46.64', '23.61.199.66', '184.26.160.64', '193.108.91.139']
+[+]Server Info: nginx/1.8.1
+[+]Server Date: Sun, 23 Oct 2016 20:39:00 GMT
+[+]Server X-Powered-By: Not found
+[+]Server Locations: [(u'Amsterdam', 52.349999999999994, 4.916699999999992), (u'Amsterdam', 52.349999999999994, 4.916699999999992), (u'Amsterdam', 52.349999999999994, 4.916699999999992), (None, 47.0, 8.0)]
+ 
+[+]URL: businessinsider.com
+[+]Domain IP: 23.235.33.64
+[+]Domian Registrar: GODADDY.COM, LLC
+[+]Name Servers: set(['ns2.p14.dynect.net', 'ns1.p14.dynect.net', 'ns4.p14.dynect.net', 'ns3.p14.dynect.net'])
+[+]Name Server IPs: ['204.13.250.14', '208.78.70.14', '204.13.251.14', '208.78.71.14']
+[+]Server Info: Apache/2.2.22 (Ubuntu)
+[+]Server Date: Sun, 23 Oct 2016 20:39:08 GMT
+[+]Server X-Powered-By: Not found
+[+]Server Locations: [(u'Manchester', 42.98849999999999, -71.4652), (u'Manchester', 42.98849999999999, -71.4652), (u'Manchester', 42.98849999999999, -71.4652), (u'Manchester', 42.98849999999999, -71.4652)]
+ 
+[+]URL: techcrunch.com
+[+]Domain IP: 192.0.79.32
+[+]Domian Registrar: CSC CORPORATE DOMAINS, INC.
+[+]Name Servers: set(['ns1.wordpress.com', 'ns2.wordpress.com', 'ns3.wordpress.com'])
+[+]Name Server IPs: ['198.181.116.9', '198.181.117.9', '192.0.74.9']
+[+]Server Info: nginx
+[+]Server Date: Sun, 23 Oct 2016 20:39:10 GMT
+[+]Server X-Powered-By: Not found
+[+]Server Locations: [(u'San Francisco', 37.748400000000004, -122.4156), (u'San Francisco', 37.748400000000004, -122.4156), (u'San Francisco', 37.748400000000004, -122.4156)]
+ 
+[+]URL: gizmodo.com
+[+]Domain IP: 151.101.1.34
+[+]Domian Registrar: MARKMONITOR INC.
+[+]Name Servers: set(['dns3.p07.nsone.net', 'dns4.p07.nsone.net', 'dns1.p07.nsone.net', 'dns2.p07.nsone.net'])
+[+]Name Server IPs: ['198.51.44.71', '198.51.45.71', '198.51.44.7', '198.51.45.7']
+ 
+[+]URL: theblaze.com
+[+]Domain IP: 216.185.145.121
+[+]Domian Registrar: MARKMONITOR INC.
+[+]Name Servers: set(['ns4.p27.dynect.net', 'ns3.p27.dynect.net', 'ns2.p27.dynect.net', 'ns1.p27.dynect.net'])
+[+]Name Server IPs: ['204.13.251.27', '208.78.71.27', '204.13.250.27', '208.78.70.27']
+[+]Server Info: Apache
+[+]Server Date: Sun, 23 Oct 2016 20:39:16 GMT
+[+]Server X-Powered-By: Not found
+[+]Server Locations: [(u'Manchester', 42.98849999999999, -71.4652), (u'Manchester', 42.98849999999999, -71.4652), (u'Manchester', 42.98849999999999, -71.4652), (u'Manchester', 42.98849999999999, -71.4652)]
+ 
+[+]URL: venturebeat.com
+[+]Domain IP: 104.239.226.208
+[+]Domian Registrar: GODADDY.COM, LLC
+[+]Name Servers: set(['ns-101.awsdns-12.com', 'ns-1252.awsdns-28.org', 'ns-848.awsdns-42.net', 'ns-2012.awsdns-59.co.uk'])
+[+]Name Server IPs: ['205.251.192.101', '205.251.196.228', '205.251.195.80', '205.251.199.220']
+[+]Server Info: nginx
+[+]Server Date: Sun, 23 Oct 2016 20:39:19 GMT
+[+]Server X-Powered-By: Not found
+[+]Server Locations: [(u'Seattle', 47.610299999999995, -122.3341), (u'Seattle', 47.610299999999995, -122.3341), (u'Seattle', 47.610299999999995, -122.3341), (u'Seattle', 47.610299999999995, -122.3341)]
+ 
+[+]URL: cnn.com
+[+]Domain IP: 151.101.64.73
+[+]Domian Registrar: CSC CORPORATE DOMAINS, INC.
+[+]Name Servers: set(['ns-1086.awsdns-07.org', 'ns-576.awsdns-08.net', 'ns-1630.awsdns-11.co.uk', 'ns-47.awsdns-05.com'])
+[+]Name Server IPs: ['205.251.196.62', '205.251.194.64', '205.251.198.94', '205.251.192.47']
+ 
+[+]URL: nytimes.com
+[+]Domain IP: 170.149.161.130
+[+]Domian Registrar: MARKMONITOR INC.
+[+]Name Servers: set(['ns3.p24.dynect.net', 'dns-plx.ewr1.nytimes.com', 'ns2.p24.dynect.net', 'ns1.p24.dynect.net', 'ns4.p24.dynect.net', 'dns-plx.sea1.nytimes.com'])
+[+]Name Server IPs: ['208.78.71.24', '170.149.161.134', '204.13.250.24', '208.78.70.24', '204.13.251.24', '170.149.159.134']
+[+]Server Info: Apache
+[+]Server Date: Sun, 23 Oct 2016 20:39:30 GMT
+[+]Server X-Powered-By: Not found
+[+]Server Locations: [(u'Manchester', 42.98849999999999, -71.4652), (u'Newark', 40.73570000000001, -74.1724), (u'Manchester', 42.98849999999999, -71.4652), (u'Manchester', 42.98849999999999, -71.4652), (u'Manchester', 42.98849999999999, -71.4652), (u'Seattle', 47.6062, -122.3321)]
+ 
+[+]URL: theonion.com
+[+]Domain IP: 104.237.151.238
+[+]Domian Registrar: NETWORK SOLUTIONS, LLC.
+[+]Name Servers: set(['ns4.linode.com', 'ns5.linode.com', 'ns2.linode.com', 'ns3.linode.com', 'ns1.linode.com'])
+[+]Name Server IPs: ['162.159.26.99', '162.159.24.25', '162.159.24.39', '162.159.25.129', '162.159.27.72']
+[+]Server Info: PWS/8.1.41.3
+[+]Server Date: Sun, 23 Oct 2016 20:39:34 GMT
+[+]Server X-Powered-By: Not found
+[+]Server Locations: [(u'San Francisco', 37.7697, -122.39330000000001), (u'San Francisco', 37.7697, -122.39330000000001), (u'San Francisco', 37.7697, -122.39330000000001), (u'San Francisco', 37.7697, -122.39330000000001), (u'San Francisco', 37.7697, -122.39330000000001)]
+ 
+[+]URL: xkcd.com
+[+]Domain IP: 23.235.37.67
+[+]Domian Registrar: GODADDY.COM, LLC
+[+]Name Servers: set(['dns2.p03.nsone.net', 'dns3.p03.nsone.net', 'dns4.p03.nsone.net', 'dns1.p03.nsone.net'])
+[+]Name Server IPs: ['198.51.45.3', '198.51.44.67', '198.51.45.67', '198.51.44.3']
+[+]Server Info: lighttpd/1.4.28
+[+]Server Date: Sun, 23 Oct 2016 20:39:37 GMT
+[+]Server X-Powered-By: Not found
+[+]Server Locations: [(u'New York', 40.688799999999986, -74.0203), (u'New York', 40.688799999999986, -74.0203), (u'New York', 40.688799999999986, -74.0203), (u'New York', 40.688799999999986, -74.0203)]
+ 
+[+]URL: macrumors.com
+[+]Domain IP: 162.254.116.23
+[+]Domian Registrar: MONIKER ONLINE SERVICES LLC
+[+]Name Servers: set(['ns2.hostduplex.com', 'ns3.hostduplex.com', 'ns1.hostduplex.com'])
+[+]Name Server IPs: ['67.203.15.20', '162.254.116.10', '208.100.49.74']
+[+]Server Info: Apache
+[+]Server Date: Sun, 23 Oct 2016 20:39:40 GMT
+[+]Server X-Powered-By: Not found
+[+]Server Locations: [(u'Las Vegas', 36.1113, -115.2791), (None, 37.751000000000005, -97.822), (u'Chicago', 41.87450000000001, -87.6503)]
+ 
+[+]URL: jalopnik.com
+[+]Domain IP: 151.101.1.34
+[+]Domian Registrar: MARKMONITOR INC.
+[+]Name Servers: set(['dns4.p05.nsone.net', 'dns1.p05.nsone.net', 'dns3.p05.nsone.net', 'dns2.p05.nsone.net'])
+[+]Name Server IPs: ['198.51.45.69', '198.51.44.5', '198.51.44.69', '198.51.45.5']
+ 
+[+]URL: slashgear.com
+[+]Domain IP: 208.43.55.27
+[+]Domian Registrar: GODADDY.COM, LLC
+[+]Name Servers: set(['dns2.easydns.net', 'ns2.softlayer.com', 'dns3.easydns.org', 'dns1.easydns.com', 'ns1.softlayer.com'])
+[+]Name Server IPs: ['198.41.222.254', '67.228.255.5', '64.68.196.10', '64.68.192.10', '67.228.254.4']
+[+]Server Info: LiteSpeed
+[+]Server Date: Sun, 23 Oct 2016 20:39:46 GMT
+[+]Server X-Powered-By: Not found
+[+]Server Locations: [(u'San Francisco', 37.7697, -122.39330000000001), (u'Dallas', 32.78309999999999, -96.8067), (u'Toronto', 43.63829999999999, -79.4301), (u'Toronto', 43.63829999999999, -79.4301), (u'Dallas', 32.78309999999999, -96.8067)]
+ 
+[+]URL: americanthinker.com
+[+]Domain IP: 66.240.200.100
+[+]Domian Registrar: ENOM, INC.
+[+]Name Servers: set(['ns11.dnsmadeeasy.com', 'ns13.dnsmadeeasy.com', 'ns12.dnsmadeeasy.com', 'ns15.dnsmadeeasy.com', 'ns10.dnsmadeeasy.com', 'ns14.dnsmadeeasy.com'])
+[+]Name Server IPs: ['208.80.124.4', '208.80.125.4', '208.80.126.4', '208.94.149.4', '208.94.148.4', '208.80.127.4']
+[+]Server Info: AmazonS3
+[+]Server Date: Sun, 23 Oct 2016 20:39:50 GMT
+[+]Server X-Powered-By: Not found
+[+]Server Locations: [(u'Reston', 38.93109999999999, -77.3489), (u'Reston', 38.93109999999999, -77.3489), (u'Reston', 38.93109999999999, -77.3489), (u'Reston', 38.93109999999999, -77.3489), (u'Reston', 38.93109999999999, -77.3489), (u'Reston', 38.93109999999999, -77.3489)]
+ 
+[+]URL: autoblog.com
+[+]Domain IP: 149.174.110.102
+[+]Domian Registrar: CSC CORPORATE DOMAINS, INC.
+[+]Name Servers: set(['dns-01.ns.aol.com', 'dns-06.ns.aol.com', 'dns-02.ns.aol.com', 'dns-07.ns.aol.com'])
+[+]Name Server IPs: ['64.12.51.132', '207.200.73.80', '205.188.157.232', '64.236.1.107']
+[+]Server Info: Apache-Coyote/1.1
+[+]Server Date: Sun, 23 Oct 2016 20:39:51 GMT
+[+]Server X-Powered-By: Not found
+[+]Server Locations: [(None, 37.751000000000005, -97.822), (None, 37.751000000000005, -97.822), (None, 37.751000000000005, -97.822), (None, 37.751000000000005, -97.822)]
+ 
+[+]URL: consumerist.com
+[+]Domain IP: 192.0.79.33
+[+]Domian Registrar: MARKMONITOR INC.
+[+]Name Servers: set(['ns1.wordpress.com', 'ns2.wordpress.com'])
+[+]Name Server IPs: ['198.181.116.9', '198.181.117.9']
+[+]Server Info: nginx
+[+]Server Date: Sun, 23 Oct 2016 20:39:54 GMT
+[+]Server X-Powered-By: Not found
+[+]Server Locations: [(u'San Francisco', 37.748400000000004, -122.4156), (u'San Francisco', 37.748400000000004, -122.4156)]
+ 
+[+]URL: bgr.com
+[+]Domain IP: 192.0.79.33
+[+]Domian Registrar: ENOM, INC.
+[+]Name Servers: set(['ns1.wordpress.com', 'ns2.wordpress.com', 'ns3.wordpress.com'])
+[+]Name Server IPs: ['198.181.116.9', '198.181.117.9', '192.0.74.9']
+[+]Server Info: nginx
+[+]Server Date: Sun, 23 Oct 2016 20:39:57 GMT
+[+]Server X-Powered-By: Not found
+[+]Server Locations: [(u'San Francisco', 37.748400000000004, -122.4156), (u'San Francisco', 37.748400000000004, -122.4156), (u'San Francisco', 37.748400000000004, -122.4156)]
+ 
